@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\3MTEC\\Documents\\Projeto2\\Projeto2\\Projeto2.csproj": {}
+    "C:\\Users\\3MTEC\\Documents\\ProjetoASP2\\Projeto2\\Projeto2\\Projeto2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\3MTEC\\Documents\\Projeto2\\Projeto2\\Projeto2.csproj": {
+    "C:\\Users\\3MTEC\\Documents\\ProjetoASP2\\Projeto2\\Projeto2\\Projeto2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\3MTEC\\Documents\\Projeto2\\Projeto2\\Projeto2.csproj",
+        "projectUniqueName": "C:\\Users\\3MTEC\\Documents\\ProjetoASP2\\Projeto2\\Projeto2\\Projeto2.csproj",
         "projectName": "Projeto2",
-        "projectPath": "C:\\Users\\3MTEC\\Documents\\Projeto2\\Projeto2\\Projeto2.csproj",
+        "projectPath": "C:\\Users\\3MTEC\\Documents\\ProjetoASP2\\Projeto2\\Projeto2\\Projeto2.csproj",
         "packagesPath": "C:\\Users\\3MTEC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\3MTEC\\Documents\\Projeto2\\Projeto2\\obj\\",
+        "outputPath": "C:\\Users\\3MTEC\\Documents\\ProjetoASP2\\Projeto2\\Projeto2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.23, )"
+            },
             "MySql.Data": {
               "target": "Package",
               "version": "[9.6.0, )"

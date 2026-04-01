@@ -1,7 +1,15 @@
+using Projeto2.Repositorio;
+using Projeto2.Repositorio.Contrato;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddHttpContextAccessor();
+
+// Adicionar um serviço para injetar os métodos no controller
+builder.Services.AddScoped<ILivrosRepositorio, LivrosRepositorio>();
 
 var app = builder.Build();
 
