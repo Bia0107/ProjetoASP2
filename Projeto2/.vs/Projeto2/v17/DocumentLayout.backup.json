@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\3MTEC\\Documents\\ProjetoASP2\\Projeto2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{508E51A0-E27A-4A16-B012-AC4725A28AB7}|Projeto2\\Projeto2.csproj|c:\\users\\3mtec\\documents\\projetoasp2\\projeto2\\projeto2\\views\\livros\\cadlivro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{508E51A0-E27A-4A16-B012-AC4725A28AB7}|Projeto2\\Projeto2.csproj|solutionrelative:projeto2\\views\\livros\\cadlivro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{508E51A0-E27A-4A16-B012-AC4725A28AB7}|Projeto2\\Projeto2.csproj|c:\\users\\3mtec\\documents\\projetoasp2\\projeto2\\projeto2\\repositorio\\itensrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{508E51A0-E27A-4A16-B012-AC4725A28AB7}|Projeto2\\Projeto2.csproj|solutionrelative:projeto2\\repositorio\\itensrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508E51A0-E27A-4A16-B012-AC4725A28AB7}|Projeto2\\Projeto2.csproj|c:\\users\\3mtec\\documents\\projetoasp2\\projeto2\\projeto2\\views\\livros\\cadlivro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{508E51A0-E27A-4A16-B012-AC4725A28AB7}|Projeto2\\Projeto2.csproj|solutionrelative:projeto2\\views\\livros\\cadlivro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{508E51A0-E27A-4A16-B012-AC4725A28AB7}|Projeto2\\Projeto2.csproj|c:\\users\\3mtec\\documents\\projetoasp2\\projeto2\\projeto2\\views\\livros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -39,8 +39,7 @@
               "ViewState": "AgIAADoAAAAAAAAAAAAcwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-27T13:33:05.627Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -52,25 +51,24 @@
               "RelativeToolTip": "Projeto2\\Views\\Livros\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-07T11:44:18.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T11:44:18.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ItensRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP2\\Projeto2\\Projeto2\\Repositorio\\ItensRepositorio.cs",
               "RelativeDocumentMoniker": "Projeto2\\Repositorio\\ItensRepositorio.cs",
               "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP2\\Projeto2\\Projeto2\\Repositorio\\ItensRepositorio.cs",
               "RelativeToolTip": "Projeto2\\Repositorio\\ItensRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-07T11:33:52.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CadLivro.cshtml",
               "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP2\\Projeto2\\Projeto2\\Views\\Livros\\CadLivro.cshtml",
               "RelativeDocumentMoniker": "Projeto2\\Views\\Livros\\CadLivro.cshtml",

@@ -5,6 +5,11 @@ namespace Projeto2.Repositorio
 {
     public class ItensRepositorio : IItensRepositorio
     {
+        private readonly string _conexaoMySQL;
+        public ItensRepositorio(IConfiguration conf)
+        {
+            _conexaoMySQL = conf.
+        }
         public void Atualizar(Itens itens)
         {
             throw new NotImplementedException();
