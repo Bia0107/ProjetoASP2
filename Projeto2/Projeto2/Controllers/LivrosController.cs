@@ -20,7 +20,7 @@ namespace Projeto2.Controllers
         }
 
         [HttpPost]
-        public IActionResult Index(Livro livro, IFormFile file)
+        public IActionResult CadLivro(Livro livro, IFormFile file)
         {
             var Caminho = GerenciadorArquivo.CadastrarImagemProduto(file);
 
